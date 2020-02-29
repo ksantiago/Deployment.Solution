@@ -19,6 +19,12 @@ before_deploy: # omit node_modules, since we set skip_cleanup below
   - rm -rf node_modules
 deploy: # see README for details on these keys
   # prevents travis from deleting the build
+  - git checkout -b deploy
+  - webpack -p
+  - git commit --allow-empty -m 'Deploying'
+  - git push --force heroku deploy:master
+  - git checkout master
+  - git branch -D deploy
   skip_cleanup: true
   provider: heroku
   # app should be your heroku app name; see README
