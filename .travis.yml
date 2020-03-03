@@ -24,6 +24,5 @@ deploy: # see README for details on these keys
   # app should be your heroku app name; see README
   app: ksdepapp
   # the secure key indicates an encrypted value; see README
-
   api_key:
     secure: wopsWJvzX5WxzMYBQjZmbLC3qU3CgvP5B/q/V8/6d3QXZZ0DjNsY5kOeioTS3n80U+SgArbE3EpKbFTv7/c7svdfW8hcLVoPIrtJyAR3iE5iAm8gXEmhrgIIA4scGM5k9v3c8+hQwlzKKjcZQDPzQdDZTHZ83y9LMSfx8rwldbMAA1mZsTdsrpBeXumiv6jN/WDEgCwsLupuhEP16gd+a+I1LZzVojQ2ll3bs66la3hYKn08pM+zE5/uZRTwjsYTwTRLp5FW8yRPOMQHccCrwaY+UsqECMmone2yQQPpxsnt2GmbBTEm+rtXERuvzoWUyjGUlLu4Weg7/MbJz14hd2obh/oJ6TtWVb6Yk9jHK/Xp2d5U5zFXuBIc3eoqyX0Di05tZeGAiSa7IvRKwzthb9usEHmZN1beQ5kzWsz2GSPgFC6xWsr2DlHYAHAa40p7pBOYAnFVoH6VavNMeU6RRAB0bjAwIcla1r2B3x+yqn3szL9HVPqIyZTfBnFiYZrEikMjnmkcgCGanES7tZF+vxTj5AluaO2tengUkB8Ka4hY5f/d6LXeL3b225DWWSol7KltYdLMc2KOn5nMLa0VAabtsNWnKH/b/pUaLYd5/s8gnbVVrZEmts3lCCWU6Ex5k+0PHuwndDUq1381S0o0OuyhPe26hb7BGw2Bp3d14Z8=
